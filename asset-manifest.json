@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.79a32d87.css",
+    "main.js": "/Portfolio/static/js/main.1a141536.js",
+    "static/media/travel.png": "/Portfolio/static/media/travel.05f729085f9fe8232fba.png",
+    "static/media/soap.png": "/Portfolio/static/media/soap.ec1c251f13bbcdb7cf2d.png",
+    "static/media/NFT1.png": "/Portfolio/static/media/NFT1.17047f83dbc949329a95.png",
+    "static/media/password.png": "/Portfolio/static/media/password.c755840a2bec8a447c0f.png",
+    "static/media/aboutpic.jpeg": "/Portfolio/static/media/aboutpic.17ebb3b12b1cc51460b4.jpeg",
+    "static/media/logo.jpeg": "/Portfolio/static/media/logo.abe228a662dc5e316052.jpeg",
+    "static/media/01CadenSmithCV2.pdf": "/Portfolio/static/media/01CadenSmithCV2.3decb107e214058913b5.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.79a32d87.css.map": "/Portfolio/static/css/main.79a32d87.css.map",
+    "main.1a141536.js.map": "/Portfolio/static/js/main.1a141536.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79a32d87.css",
+    "static/js/main.1a141536.js"
+  ]
+}
