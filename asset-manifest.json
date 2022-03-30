@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.79a32d87.css",
-    "main.js": "/Portfolio/static/js/main.055ba22d.js",
+    "main.js": "/Portfolio/static/js/main.f48161ec.js",
     "static/media/travel.png": "/Portfolio/static/media/travel.05f729085f9fe8232fba.png",
     "static/media/sports-blog.png": "/Portfolio/static/media/sports-blog.11ec4045617f06931304.png",
     "static/media/soap.png": "/Portfolio/static/media/soap.ec1c251f13bbcdb7cf2d.png",
+    "static/media/trivia.png": "/Portfolio/static/media/trivia.22697a8e7cc5df9a6f4e.png",
     "static/media/NFT1.png": "/Portfolio/static/media/NFT1.17047f83dbc949329a95.png",
     "static/media/password.png": "/Portfolio/static/media/password.c755840a2bec8a447c0f.png",
     "static/media/aboutpic.jpeg": "/Portfolio/static/media/aboutpic.17ebb3b12b1cc51460b4.jpeg",
@@ -12,10 +13,10 @@
     "static/media/01CadenSmithCV41.pdf": "/Portfolio/static/media/01CadenSmithCV41.cb67ca70c17c362fd667.pdf",
     "index.html": "/Portfolio/index.html",
     "main.79a32d87.css.map": "/Portfolio/static/css/main.79a32d87.css.map",
-    "main.055ba22d.js.map": "/Portfolio/static/js/main.055ba22d.js.map"
+    "main.f48161ec.js.map": "/Portfolio/static/js/main.f48161ec.js.map"
   },
   "entrypoints": [
     "static/css/main.79a32d87.css",
-    "static/js/main.055ba22d.js"
+    "static/js/main.f48161ec.js"
   ]
 }
