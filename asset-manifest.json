@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Chart-Palooza/static/css/main.da280a1b.css",
-    "main.js": "/Chart-Palooza/static/js/main.57590d75.js",
-    "static/media/gecko.webp": "/Chart-Palooza/static/media/gecko.ece34b9bec04b075aaaf.webp",
-    "index.html": "/Chart-Palooza/index.html",
-    "main.da280a1b.css.map": "/Chart-Palooza/static/css/main.da280a1b.css.map",
-    "main.57590d75.js.map": "/Chart-Palooza/static/js/main.57590d75.js.map"
+    "main.css": "/chart-palooza/static/css/main.da280a1b.css",
+    "main.js": "/chart-palooza/static/js/main.d98d32ad.js",
+    "static/media/gecko.webp": "/chart-palooza/static/media/gecko.ece34b9bec04b075aaaf.webp",
+    "index.html": "/chart-palooza/index.html",
+    "main.da280a1b.css.map": "/chart-palooza/static/css/main.da280a1b.css.map",
+    "main.d98d32ad.js.map": "/chart-palooza/static/js/main.d98d32ad.js.map"
   },
   "entrypoints": [
     "static/css/main.da280a1b.css",
-    "static/js/main.57590d75.js"
+    "static/js/main.d98d32ad.js"
   ]
 }
