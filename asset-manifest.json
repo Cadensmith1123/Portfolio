@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.79a32d87.css",
-    "main.js": "/Portfolio/static/js/main.6d53bbe5.js",
-    "static/media/travel.png": "/Portfolio/static/media/travel.05f729085f9fe8232fba.png",
-    "static/media/sports-blog.png": "/Portfolio/static/media/sports-blog.11ec4045617f06931304.png",
-    "static/media/soap.png": "/Portfolio/static/media/soap.ec1c251f13bbcdb7cf2d.png",
-    "static/media/trivia.png": "/Portfolio/static/media/trivia.22697a8e7cc5df9a6f4e.png",
-    "static/media/NFT1.png": "/Portfolio/static/media/NFT1.17047f83dbc949329a95.png",
-    "static/media/password.png": "/Portfolio/static/media/password.c755840a2bec8a447c0f.png",
-    "static/media/aboutpic.jpeg": "/Portfolio/static/media/aboutpic.17ebb3b12b1cc51460b4.jpeg",
-    "static/media/chart.png": "/Portfolio/static/media/chart.4156db6d74d002a15610.png",
-    "static/media/logo.jpeg": "/Portfolio/static/media/logo.abe228a662dc5e316052.jpeg",
+    "main.js": "/Portfolio/static/js/main.ce4b8b9c.js",
+    "static/media/travel.webp": "/Portfolio/static/media/travel.e92b0852ecb7c9a191dd.webp",
+    "static/media/sports-blog.webp": "/Portfolio/static/media/sports-blog.8a6ff6c757ae103710ef.webp",
+    "static/media/soap.webp": "/Portfolio/static/media/soap.bf03a47145d1ec83b059.webp",
+    "static/media/trivia.webp": "/Portfolio/static/media/trivia.6868157cb83f3a27bf34.webp",
+    "static/media/aboutpic.webp": "/Portfolio/static/media/aboutpic.5c42152028e83ae6c08d.webp",
+    "static/media/password.webp": "/Portfolio/static/media/password.a4ed52773ccf6365bf7f.webp",
+    "static/media/chart.webp": "/Portfolio/static/media/chart.2a20d743d16eb76e2b8c.webp",
+    "static/media/NFT1.webp": "/Portfolio/static/media/NFT1.84e4fe4245d7cc6f248f.webp",
     "static/media/01CadenSmithCV41.pdf": "/Portfolio/static/media/01CadenSmithCV41.cb67ca70c17c362fd667.pdf",
+    "static/media/logo.webp": "/Portfolio/static/media/logo.be6d446afbeb19c07242.webp",
     "index.html": "/Portfolio/index.html",
     "main.79a32d87.css.map": "/Portfolio/static/css/main.79a32d87.css.map",
-    "main.6d53bbe5.js.map": "/Portfolio/static/js/main.6d53bbe5.js.map"
+    "main.ce4b8b9c.js.map": "/Portfolio/static/js/main.ce4b8b9c.js.map"
   },
   "entrypoints": [
     "static/css/main.79a32d87.css",
-    "static/js/main.6d53bbe5.js"
+    "static/js/main.ce4b8b9c.js"
   ]
 }
