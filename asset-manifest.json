@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.905112db.css",
-    "main.js": "/Portfolio/static/js/main.80cc949d.js",
+    "main.js": "/Portfolio/static/js/main.c37c728b.js",
     "static/media/travel.webp": "/Portfolio/static/media/travel.e92b0852ecb7c9a191dd.webp",
     "static/media/sports-blog.webp": "/Portfolio/static/media/sports-blog.8a6ff6c757ae103710ef.webp",
     "static/media/soap.webp": "/Portfolio/static/media/soap.bf03a47145d1ec83b059.webp",
@@ -14,10 +14,10 @@
     "static/media/logo.webp": "/Portfolio/static/media/logo.be6d446afbeb19c07242.webp",
     "index.html": "/Portfolio/index.html",
     "main.905112db.css.map": "/Portfolio/static/css/main.905112db.css.map",
-    "main.80cc949d.js.map": "/Portfolio/static/js/main.80cc949d.js.map"
+    "main.c37c728b.js.map": "/Portfolio/static/js/main.c37c728b.js.map"
   },
   "entrypoints": [
     "static/css/main.905112db.css",
-    "static/js/main.80cc949d.js"
+    "static/js/main.c37c728b.js"
   ]
 }
