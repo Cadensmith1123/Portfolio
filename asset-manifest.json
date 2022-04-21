@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.905112db.css",
-    "main.js": "/Portfolio/static/js/main.c37c728b.js",
+    "main.css": "/Portfolio/static/css/main.6a20d28d.css",
+    "main.js": "/Portfolio/static/js/main.510fd5ef.js",
     "static/media/travel.webp": "/Portfolio/static/media/travel.e92b0852ecb7c9a191dd.webp",
     "static/media/sports-blog.webp": "/Portfolio/static/media/sports-blog.8a6ff6c757ae103710ef.webp",
     "static/media/soap.webp": "/Portfolio/static/media/soap.bf03a47145d1ec83b059.webp",
@@ -13,11 +13,11 @@
     "static/media/01CadenSmithCV41.pdf": "/Portfolio/static/media/01CadenSmithCV41.cb67ca70c17c362fd667.pdf",
     "static/media/logo.webp": "/Portfolio/static/media/logo.be6d446afbeb19c07242.webp",
     "index.html": "/Portfolio/index.html",
-    "main.905112db.css.map": "/Portfolio/static/css/main.905112db.css.map",
-    "main.c37c728b.js.map": "/Portfolio/static/js/main.c37c728b.js.map"
+    "main.6a20d28d.css.map": "/Portfolio/static/css/main.6a20d28d.css.map",
+    "main.510fd5ef.js.map": "/Portfolio/static/js/main.510fd5ef.js.map"
   },
   "entrypoints": [
-    "static/css/main.905112db.css",
-    "static/js/main.c37c728b.js"
+    "static/css/main.6a20d28d.css",
+    "static/js/main.510fd5ef.js"
   ]
 }
