@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.6a20d28d.css",
+    "main.js": "/Portfolio/static/js/main.3f545f8a.js",
+    "static/media/travel.webp": "/Portfolio/static/media/travel.e92b0852ecb7c9a191dd.webp",
+    "static/media/sports-blog.webp": "/Portfolio/static/media/sports-blog.8a6ff6c757ae103710ef.webp",
+    "static/media/01CadenSmithResume17.docx (1).pdf": "/Portfolio/static/media/01CadenSmithResume17.docx (1).6ec8d57c86511d45ce43.pdf",
+    "static/media/soap.webp": "/Portfolio/static/media/soap.bf03a47145d1ec83b059.webp",
+    "static/media/trivia.webp": "/Portfolio/static/media/trivia.6868157cb83f3a27bf34.webp",
+    "static/media/aboutpic.webp": "/Portfolio/static/media/aboutpic.5c42152028e83ae6c08d.webp",
+    "static/media/password.webp": "/Portfolio/static/media/password.a4ed52773ccf6365bf7f.webp",
+    "static/media/chart.webp": "/Portfolio/static/media/chart.2a20d743d16eb76e2b8c.webp",
+    "static/media/NFT1.webp": "/Portfolio/static/media/NFT1.84e4fe4245d7cc6f248f.webp",
+    "static/media/ji-01R8P_400x400.jpg": "/Portfolio/static/media/ji-01R8P_400x400.a469876bc124d9c38052.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.6a20d28d.css.map": "/Portfolio/static/css/main.6a20d28d.css.map",
+    "main.3f545f8a.js.map": "/Portfolio/static/js/main.3f545f8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a20d28d.css",
+    "static/js/main.3f545f8a.js"
+  ]
+}
